@@ -20,7 +20,7 @@ def user_input_features():
 nums= user_input_features()
 output=max(nums)
 
-st.suheader('Maximum amongst the 3 is: ')
+st.subheader('Maximum amongst the 3 is: ')
 st.write(output)
 
 
